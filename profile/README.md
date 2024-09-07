@@ -21,5 +21,3 @@
 Raymond Knetemann - raymond@prind.nl
 
 Sjoerd Gulikers - sjoerd@prind.nl
-
-Project Link: https://github.com/rknetemann/prind-product-manager
